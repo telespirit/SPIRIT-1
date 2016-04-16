@@ -231,6 +231,18 @@ function create_config( )
     "supergroup",
     "whitelist",
     "msg_checks"
+    "Map",
+    "addplugin",
+    "echo",
+    "info",
+    "linkpv",
+    "plugins",
+    "time",
+    "tophoto",
+    "tosticker",
+    "voice",
+    "welcome",
+    "instagram"
     },
     sudo_users = {129355262,199433012},--Sudo users
     moderation = {data = 'data/moderation.json'},
